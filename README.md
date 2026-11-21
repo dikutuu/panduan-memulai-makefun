@@ -110,6 +110,7 @@ Jangan mencoba memengaruhi atribusi dengan menghapus cookie, menggunakan VPN, be
 - Nama README keliru atau `README.md` tidak berada di direktori utama repositori.
 - Screenshot palsu atau pinjaman dipakai sebagai pengganti tangkapan layar halaman repositori publik sendiri di GitHub.
 - Commit SHA yang dimasukkan salah, sehingga versi yang diperiksa berbeda dari karya yang hendak dikirim.
+- Langsung mencoba mengirim tanpa mengecek sisa kuota dan tenggat dalam zona waktu sendiri. Jika kuota habis atau jam penutupan keliru dibaca, entry bisa gagal masuk hingga jendela pengiriman berakhir.
 - Peringkat provisional dianggap sebagai hasil akhir atau kepastian hadiah.
 
 ## 10. FAQ
@@ -153,6 +154,13 @@ Untuk bounty ini, hasil menunggu fase final dan pemeriksaan ulang repositori sel
 <summary>Bolehkah repositori dijadikan privat setelah entry dikirim?</summary>
 
 Untuk bounty panduan ini, jangan menjadikannya privat sebelum pemeriksaan final selesai. Repositori harus tetap publik, tetap repositori yang sama, dimiliki akun GitHub yang sama, dan tetap memuat kode referralmu dalam README sampai diperiksa ulang. Simpan pula berkas yang diwajibkan, termasuk screenshot halaman repositori publik sendiri. Pengiriman awal belum menuntaskan kewajiban ini; lihat [persyaratan repositori pada halaman bounty](https://make.fun/bounty/bring-the-humans-02).
+
+</details>
+
+<details>
+<summary>Bolehkah saya membagikan panduan dan tautan referral secara publik?</summary>
+
+Boleh. Tujuan panduan ini memang membantu orang baru mengenal make.fun lewat informasi yang jujur. Saat membagikannya, jelaskan bahwa tautan itu milikmu dan kamu bisa mendapat bonus dari make.fun sesuai ketentuan program. Jangan membeli signup, mengirim spam kepada orang yang tidak meminta informasi itu, atau menjanjikan hadiah kepada siapa pun.
 
 </details>
 
